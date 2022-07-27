@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/taiwan-rocket-coding/join-team-rocket/static/css/main.4e499db6.css",
+    "main.js": "/taiwan-rocket-coding/join-team-rocket/static/js/main.e59d46ac.js",
+    "index.html": "/taiwan-rocket-coding/join-team-rocket/index.html",
+    "main.4e499db6.css.map": "/taiwan-rocket-coding/join-team-rocket/static/css/main.4e499db6.css.map",
+    "main.e59d46ac.js.map": "/taiwan-rocket-coding/join-team-rocket/static/js/main.e59d46ac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e499db6.css",
+    "static/js/main.e59d46ac.js"
+  ]
+}
