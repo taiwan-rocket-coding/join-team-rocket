@@ -8,7 +8,7 @@ const Card = ({ data }) => {
         {name}
       </h3>
       <p className="intro text-lg mb-6">{description}</p>
-      <div className="flex justify-center">
+      <div className="flex justify-center mt-auto">
         <a href={github} target="_blank">
           <FaGithub />
         </a>
