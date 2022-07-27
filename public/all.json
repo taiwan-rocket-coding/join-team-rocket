@@ -1,4 +1,11 @@
 {
+  "3ee5b3c83075aca4be926426826dfcb54bcf5fa61e5ff099c843699493ece41c": {
+    "batch": 10,
+    "name": "Shun",
+    "description": "只要是有勇氣承認失敗的人，永遠都會有站起來的一天",
+    "github": "https://github.com/J-Shun"
+  }
+,
   "0ec929f995b5dfb0f4635de624b4f3699486b5fca1dbdddde158beb4f842a356": {
     "batch": 10,
     "name": "Alex/KT/冠廷",
@@ -6,12 +13,12 @@
     "github": "https://github.com/alexlautw9527"
   }
 ,
-  "3ee5b3c83075aca4be926426826dfcb54bcf5fa61e5ff099c843699493ece41c": {
-    "batch": 10,
-    "name": "Shun",
-    "description": "只要是有勇氣承認失敗的人，永遠都會有站起來的一天",
-    "github": "https://github.com/J-Shun"
-  }
+    "7c2207bb0a7ae767c62fef0c8e8c70f4e51ce91d38633d2003f42dfcd0303eac": {
+      "batch": 10,
+      "name": "Archer",
+      "description": "To be a nomadic software engineer; Keep going, keep learning",
+      "github": "https://github.com/archergo1"
+    }
 ,
   "a3b95274094535833a8d663bdd9434c4c78258be7fe5b0e4b9b02f3043f649db": {
     "batch": 10,
@@ -20,18 +27,18 @@
     "github": "https://github.com/sindewa"
   }
 ,
-  "b67ee4dc763d577b4dd32a8c39af919b3d88a82b2391c6797956af5a1a78545e": {
-    "batch": 10,
-    "name": "Simon",
-    "description": "第十梯Simon",
-    "github": "https://github.com/simon040102"
-  }
-,
   "abd31b5b33431ea82cd74033615305b7dd1e32356f51f3aeca67160edb81461b": {
     "batch": 10,
     "name": "guifeng",
     "description": "HI!",
     "github": "https://github.com/s10614165"
+  }
+,
+  "b67ee4dc763d577b4dd32a8c39af919b3d88a82b2391c6797956af5a1a78545e": {
+    "batch": 10,
+    "name": "Simon",
+    "description": "第十梯Simon",
+    "github": "https://github.com/simon040102"
   }
 ,
   "bff0aef7a96ea4caa1d27f387ea8d9df11b0c660786c169b373153dafe27f1e5": {
